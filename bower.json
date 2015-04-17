@@ -1,0 +1,36 @@
+{
+  "name": "iron-elements",
+  "version": "0.8.0",
+  "description": "Iron elements are a set of visual and non-visual utility elements. They include elements for working with layout, user input, selection, and scaffolding apps.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "utility",
+    "user-input",
+    "selection"
+  ],
+
+  "main": "iron-elements.html",
+  "dependencies": {
+    "iron-ajax":        "PolymerElements/iron-ajax#^0.8.0",
+    "iron-selector":    "PolymerElements/iron-selector#^0.8.0",
+    "iron-icon":        "PolymerElements/iron-icon#^0.8.0",
+    "iron-icons":       "PolymerElements/iron-icon#^0.8.0",
+    "iron-iconset":     "PolymerElements/iron-iconset#^0.8.0",
+    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#^0.8.0",
+    "iron-image":       "PolymerElements/iron-image#^0.8.0",
+    "iron-doc-viewer":  "PolymerElements/iron-doc-viewer#^0.8.0",
+    "iron-meta":        "PolymerElements/iron-meta#^0.8.0"
+  },
+
+  "homepage": "https://github.com/PolymerElements/iron-elements",
+  "authors": ["The Polymer Authors"],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
