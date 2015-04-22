@@ -10,7 +10,6 @@
     "selection"
   ],
 
-  "main": "iron-elements.html",
   "dependencies": {
     "iron-ajax":        "PolymerElements/iron-ajax#^0.8.0",
     "iron-selector":    "PolymerElements/iron-selector#^0.8.0",
