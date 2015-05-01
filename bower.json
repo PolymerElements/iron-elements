@@ -27,14 +27,11 @@
     "iron-input": "PolymerElements/iron-input#^0.8.0",
     "iron-jsonp-library": "PolymerElements/iron-jsonp-library#^0.8.0",
     "iron-media-query": "PolymerElements/iron-media-query#^0.8.0",
-    "iron-menu-behavior": "PolymerElements/iron-menu-behavior#^0.8.0",
     "iron-meta": "PolymerElements/iron-meta#^0.8.0",
     "iron-overlay-behavior": "PolymerElements/iron-overlay-behavior#^0.8.0",
     "iron-pages": "PolymerElements/iron-pages#^0.8.0",
-    "iron-range": "PolymerElements/iron-range#^0.8.0",
     "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior#^0.8.0",
     "iron-selector": "PolymerElements/iron-selector#^0.8.0",
-    "iron-signals": "PolymerElements/iron-signals#^0.8.0",
     "iron-test-helpers": "PolymerElements/iron-test-helpers#^0.8.0"
   },
 
