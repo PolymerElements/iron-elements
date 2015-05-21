@@ -31,3 +31,4 @@ A number of elements existed as `core` elements that are not in this product lin
 * `core-splitter` - This element was relatively trivial, so we've put it off for now.
 * `core-style` - This element is not useful with Polymer's new styling system. Check out the latest docs for more.
 * `core-tooltip` - This will become `paper-tooltip`.
+* `core-menu` - This had UI opinion, and will become `paper-dropdown-menu`
