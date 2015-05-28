@@ -48,7 +48,7 @@
 
   "homepage": "https://github.com/PolymerElements/iron-elements",
   "authors": ["The Polymer Authors"],
-  "license": "MIT",
+  "license": "http://polymer.github.io/LICENSE.txt",
   "ignore": [
     "**/.*",
     "node_modules",
