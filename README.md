@@ -11,7 +11,7 @@ Basic building blocks for creating an application. Most of the `iron` elements w
 ### Elements planned
 _Elements we're planning on building soon but haven't started yet_
 
-[Currently focused on getting all elements up to speed]
+* `iron-label` - still looking for the right way to bring what used to be `core-label` into the 1.0 world. 
 
 ### Elements not planned, notably
 _Elements we're not planning on building as part of this product line, but that one might be wondering about_
