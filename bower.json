@@ -9,7 +9,10 @@
     "user-input",
     "selection"
   ],
-
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PolymerElements/iron-elements.git"
+  },
   "dependencies": {
     "iron-a11y-announcer": "PolymerElements/iron-a11y-announcer#^1.0.0",
     "iron-a11y-keys": "PolymerElements/iron-a11y-keys#^1.0.0",
