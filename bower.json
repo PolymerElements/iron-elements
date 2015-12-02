@@ -38,6 +38,7 @@
     "iron-input": "PolymerElements/iron-input#^1.0.0",
     "iron-jsonp-library": "PolymerElements/iron-jsonp-library#^1.0.0",
     "iron-list": "PolymerElements/iron-list#^1.0.0",
+    "iron-label": "PolymerElements/iron-label#^1.0.0",
     "iron-localstorage": "PolymerElements/iron-localstorage#^1.0.0",
     "iron-media-query": "PolymerElements/iron-media-query#^1.0.0",
     "iron-menu-behavior": "PolymerElements/iron-menu-behavior#^1.0.0",
