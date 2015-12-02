@@ -23,6 +23,7 @@
     "iron-checked-element-behavior" : "PolymerElements/iron-checked-element-behavior#^1.0.0",
     "iron-collapse": "PolymerElements/iron-collapse#^1.0.0",
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
     "iron-doc-viewer": "PolymerElements/iron-doc-viewer#^1.0.0",
     "iron-dropdown": "PolymerElements/iron-dropdown#^1.0.0",
     "iron-fit-behavior": "PolymerElements/iron-fit-behavior#^1.0.0",
@@ -47,6 +48,7 @@
     "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior#^1.0.0",
     "iron-selector": "PolymerElements/iron-selector#^1.0.0",
     "iron-signals": "PolymerElements/iron-signals#^1.0.0",
+    "iron-swipeable-container": "PolymerElements/iron-swipeable-container#^1.0.0",
     "iron-test-helpers": "PolymerElements/iron-test-helpers#^1.0.0",
     "iron-validatable-behavior": "PolymerElements/iron-validatable-behavior#^1.0.0",
     "iron-validator-behavior": "PolymerElements/iron-validator-behavior#^1.0.0"
