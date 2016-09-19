@@ -7,7 +7,8 @@
     "polymer",
     "utility",
     "user-input",
-    "selection"
+    "selection",
+    "element-collection"
   ],
   "repository": {
     "type": "git",
