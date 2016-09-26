@@ -37,7 +37,7 @@
     "iron-image": "PolymerElements/iron-image",
     "iron-jsonp-library": "PolymerElements/iron-jsonp-library",
     "iron-list": "PolymerElements/iron-list",
-    "iron-location": "PolymerElements/iron-location#^0.8.0",
+    "iron-location": "PolymerElements/iron-location",
     "iron-media-query": "PolymerElements/iron-media-query",
     "iron-overlay-behavior": "PolymerElements/iron-overlay-behavior",
     "iron-pages": "PolymerElements/iron-pages",
