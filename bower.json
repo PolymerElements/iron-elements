@@ -15,8 +15,8 @@
     "url": "git://github.com/PolymerElements/iron-elements.git"
   },
   "dependencies": {
-    "icon-behaviors-collection": "PolymerElements/iron-behaviors-collection",
-    "icon-input-elements": "PolymerElements/iron-input-elements",
+    "iron-behaviors-collection": "PolymerElements/iron-behaviors-collection",
+    "iron-input-elements": "PolymerElements/iron-input-elements",
     "iron-a11y-announcer": "PolymerElements/iron-a11y-announcer",
     "iron-a11y-keys": "PolymerElements/iron-a11y-keys",
     "iron-a11y-keys-behavior": "PolymerElements/iron-a11y-keys-behavior",
